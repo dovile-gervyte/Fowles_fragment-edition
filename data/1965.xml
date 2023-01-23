@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlstylesheet.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Last chapter of the first (american) edition of "The Magus"</title>
+            <author>John Fowles (1926–2005)</author>
+            <respStmt>
+               <name>Dovilė Gervytė</name>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <date>1965</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 type="chapter">
+            <pb n="xxx"/>
+            <head rend="align(center) underlined">Seventy-eight</head>
+            <p>[...]</p>
+            <div2 type="section">
+               <pb n="605"/>
+               <ab n="1" type="narrative_unit" xml:id="F3"><!-- CSS: green -->
+                  <s n="1">Her eyes were wet, perhaps with the pain. But she was slowly smiling.
+                     That archaic smile, her variant of theirs, steadier, braver, far less
+                     implacable, without malice or arrogance, yet still that smile.</s>
+                  <s n="2" rend="first-line-indent"><seg xml:id="AP_F3">Mocking love, yet making
+                        it.</seg></s>
+               </ab>
+               <ab n="2" type="narrative_unit" xml:id="F4"><!-- CSS: blue -->
+                  <s n="3" rend="first-line-indent">And suddenly the truth came to me, as we stood
+                     there, trembling, searching, at our point of fulcrum. There were no watching
+                     eyes. The windows were as blank as they looked. The theatre was empty. It was
+                     not a theatre. They had told her it was a theatre, and she had believed them,
+                     and I had believed her. To bring us to this–not for themselves, but for us. I
+                     turned and looked at the windows, the facade, the pompous white pedimental
+                     figures.</s>
+                  <s n="4" rend="first-line-indent">Then she buried her face in her hands, as if
+                     some inexorable mechanism had started.</s>
+                  <s n="5" rend="first-line-indent">I was so sure. It was logical, the
+                     characteristic and perfect final touch to the godgame. They had absconded. <seg
+                        xml:id="AP_F4">I was so sure, and yet . . . after so much, how could I be
+                        perfectly sure?</seg> How could they be so cold? So inhuman? So incurious?
+                     So load the dice and yet leave the game? And if I wasn’t sure?</s>
+               </ab>
+               <pb n="606"/>
+               <ab n="3" type="narrative_unit" xml:id="F1"><!-- CSS: orange -->
+                  <s n="6" rend="first-line-indent">I gave her bowed head one last stare, then <seg
+                        xml:id="AP_F1">I was walking</seg>. Firmer than Orpheus, as firm as Alison
+                     herself, that other day of parting, not once looking back. </s>
+               </ab>
+               <ab n="4" type="narrative_unit" xml:id="F5"><!-- CSS: grey -->
+                  <s n="7">The autumn grass, the autumn sky. People. A blackbird, poor fool, singing
+                     out of season from the willows by the lake. A flight of gray pigeons over the
+                     houses. Fragments of freedom, an anagram made flesh. And somewhere <seg
+                        xml:id="AP_F5">the stinging smell of burning leaves</seg>.</s>
+               </ab>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>

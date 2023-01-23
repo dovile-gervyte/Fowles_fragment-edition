@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlstylesheet.xsl"?>
+<TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Last chapter of the revised (american) edition of "The Magus"</title>
+            <author>John Fowles (1926–2005)</author>
+            <respStmt>
+               <name>Dovilė Gervytė</name>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <biblStruct>
+               <monogr>
+                  <imprint>
+                     <date>1977</date>
+                  </imprint>
+               </monogr>
+            </biblStruct>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 type="chapter">
+            <pb n="xxx"/>
+            <head rend="align(center) underlined">Chapter Seventy-eight</head>
+            <p>[...]</p>
+            <div2 type="section">
+               <pb n="654"/>
+               <ab n="1" type="narrative_unit" xml:id="F3"><!-- CSS: green -->
+                  <s n="1">Her hand stayed over the side of her face and her eyes were growing wet,
+                     certainly with the pain and perhaps partly also with <seg xml:id="AP_F3">a sort
+                        of incredulity</seg>.</s>
+               </ab>
+               <ab n="2" type="narrative_unit" xml:id="F4"><!-- CSS: blue -->
+                  <s n="2" rend="first-line-indent">The final truth came to me, as we stood there,
+                     trembling, searching, between all our past and all our future; at a moment when
+                     the difference between fission and fusion by in a nothing, a tiniest movement,
+                     betrayal, further misunderstanding.</s>
+                  <s n="3" rend="first-line-indent">The final truth came to me, as we stood there,
+                     trembling, searching, between all our past and all our future; at a moment when
+                     the difference between fission and fusion by in a nothing, a tiniest movement,
+                     betrayal, further misunderstanding.</s>
+                  <s n="4" rend="first-line-indent">There were no watching eyes. The windows were as
+                     blank as they looked. The theatre was empty. It was not a theatre. They had
+                     perhaps told her it was a theatre, and she had believed them, and I <pb n="655"
+                     /> had believed her. Perhaps it had all been to bring me to this, to give me my
+                     last lesson and final ordeal... the task, as in <emph rend="italic"
+                        >L'Astrée</emph>, of turning lions and unicorns and magi and other mythical
+                     monsters into stone statues. I looked away from Alison and at those distant
+                     windows, the façade, the pompous white pedimental figures that crowned it. It
+                     was logical, the perfect climax to the godgame. They had absconded, we were
+                        alone.<seg xml:id="AP_F4">I was so sure, and yet... after so much, how could
+                        I be perfectly sure?</seg> How could they be so cold, so inhuman – so
+                     incurious? So load the dice and yet leave the game?</s>
+               </ab>
+               <ab n="3" type="narrative_unit" xml:id="xx"><!-- CSS: [-] -->
+                  <s n="5" rend="first-line-indent">I looked back towards the path. The far more
+                     natural watchers there were strolling on, as if this trivial little bit of
+                     masculine brutality, the promised scene, had lost their interest also. Alison
+                     hadn't moved, she still held a hand to her cheek, but now her head was bowed.
+                     There was a little shuddered outbreath as she tried to stifle the tears; then
+                     her voice, broken, hardly audible, in despair, almost self-amazed.</s>
+               </ab>
+               <ab n="4" type="narrative_unit" xml:id="F1"><!-- CSS: orange -->
+                  <s n="6" rend="first-line-indent">'I hate you. I <emph rend="italic">hate</emph>
+                     you.'</s>
+                  <s n="7" rend="first-line-indent">I said nothing, made no move to touch her. After
+                     a moment she looked up and everything in her expression was as it had been in
+                     her voice and words: hatred, pain, every female resentment since time began.
+                     But I clung to something, the something I had never seen, or always feared to
+                     see, in those intense grey eyes, the quintessential something behind all the
+                     hating, the hurtness, the tears. A small step poised, a shattered crystal
+                     waiting to be reborn. She spoke again, as if to kill what I was looking at.</s>
+                  <s n="8" rend="first-line-indent">'I <emph rend="italic">do</emph>.'</s>
+                  <s n="9" rend="first-line-indent">'Then <seg xml:id="AP_F1">why wouldn't you let
+                        me walk away?</seg>'</s>
+                  <s n="10" rend="first-line-indent">She shook her abruptly lowered head, as if the
+                     question was unfair.</s>
+                  <s n="11" rend="first-line-indent">'You know why.'</s>
+                  <s n="12" rend="first-line-indent">'No.'</s>
+                  <s n="13" rend="first-line-indent">'I knew within two seconds of seeing you.'</s>
+                  I went closer. Her other hand went to her face, as if I might hit her again. 'I
+                  understand that word now, Alison. Your word.' Still she waited, face hidden in her
+                  hands, like someone being told of a tragic loss. 'You can't hate someone who's
+                  really on his knees. Who'll never be more than half a human being without you.' <s
+                     n="14" rend="first-line-indent">The bowed head, the buried face.</s>
+                  <pb n="656"/>
+               </ab>
+               <ab n="5" type="narrative_unit" xml:id="F5"><!-- CSS: grey -->
+                  <s n="15" rend="first-line-indent">She is silent, she will never speak, never
+                     forgive, never reach a hand, never leave this frozen present tense. All waits,
+                     suspended. Suspend the autumn trees, the autumn sky, anonymous people. A
+                     blackbird, poor fool, sings out of season from the willows by the lake. A
+                     flight of pigeons over the houses; fragments of freedom, hazard, an anagram
+                     made flesh. And somewhere <seg xml:id="AP_F5">the stinging smell of burning
+                        leaves</seg>.</s>
+               </ab>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>
+

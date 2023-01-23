@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xmlstylesheet.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Last chapter of "The Magus"</title>
+            <author>John Fowles (1926–2005)</author>
+            <respStmt>
+               <name>Dovilė Gervytė</name>
+               <resp>editor</resp>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <settlement>Austin, Texas</settlement>
+                  <repository>Harry Ransom Center</repository>
+                  <idno type="archival_description">CH. 78 to end (First ending, Box 28.4)</idno>
+               </msIdentifier>
+               <msContents>
+                  <p>Typescript draft of the segment of the last chapter (80) of 'The Magus' revised
+                     by Fowles</p>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>Separate sheets of paper</support>
+                        <extent>
+                           <measure type="pages">16</measure>
+                           <dimensions/>
+                        </extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <typeDesc>
+                     <typeNote xml:id="FR01" medium="black-ink">Typescript probably produced and
+                        edited by Fowles</typeNote>
+                  </typeDesc>
+                  <handDesc>
+                     <handNote xml:id="FR01" medium="black-ink">Fowles' revisions made with
+                        typewriter when typing</handNote>
+                     <handNote xml:id="FR02" medium="black-ink">Fowles' revisions made with
+                        black-ink fountain pen and black-ink felt-tip marker</handNote>
+                     <handNote xml:id="FR03" medium="black-ink">Fowles' revisions made with another
+                        [?] typewriter after text was typed, p. </handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>Typescripted and revised no later than 1965 (the first edition of The
+                        Magus)</origDate>
+                  </origin>
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
+         <creation>
+            <listChange ana="genesisStages" ordered="false">
+               <change xml:id="ST0" corresp="#FR01">Writing with the typewriter</change>
+               <change xml:id="ST1" corresp="#FR02 #FR03">First revision stage: Fowles' revisions
+                  made with typewriter when typing</change>
+               <change xml:id="ST2" corresp="#FR02 #FR03">Second revision stage: Fowles' revisions
+                  made with black-ink fountain pen and black-ink felt-tip pen</change>
+               <change xml:id="ST3" corresp="#FR02 #FR03">Third revision stage: Fowles' revisions
+                  made with typewritten inset [p. 1161]</change>
+               <change xml:id="ST4" corresp="#FR02 #FR03">Fourth revision stage: Fowles' revisions
+                  made with typewriter after text was typed [p. 1169]</change>
+            </listChange>
+         </creation>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div1 type="chapter" change="#ST0">
+            <pb n="1157"/>
+            <head rend="align(center) underlined">Chapter Eighty</head>
+            <p>[...]</p>
+            <div2 type="section">
+               <pb n="1172"/>
+               <ab n="1" type="narrative_unit" xml:id="F1"><!-- CSS: orange -->
+                  <s n="1">I looked up at her watching me. <seg xml:id="AP_F1"
+                        >“If you went away now...”</seg></s>
+                  <s n="2" rend="first-line-indent">“If I went away now?” Our voices had sunk to
+                     whispers.</s>
+                  <s n="3" rend="first-line-indent"><del change="#FR02" rend="overstrike">“I think
+                        my heart would break.”</del><add n="1" change="#FR02" place="above">A
+                        silence. Some kind of begging beggar words.</add><add n="2" change="#FR02"
+                        place="below">I stared at the ground.</add></s>
+                  <s n="4" rend="first-line-indent">She came round the sarcophagus and leant against
+                     the sidewall, three feet away. Her face in shadow, the grey eyes, the look of
+                     the perverse waif; but her innocence overwhelming her perverseness. With such a
+                     strange smile; as if I was a baby she had just given birth to. And then her
+                     sense of anti-gravity came back, and she gave a little grin.</s>
+                  <s n="5" rend="first-line-indent">“Do you know what I discovered one day?”</s>
+                  <s n="6" rend="first-line-indent">“No.”</s>
+                  <s n="7" rend="first-line-indent">“That if you take the c and the h away from
+                     Nicholas, you’re left with Alison all mixed up.”</s>
+                  <s n="8" rend="first-line-indent">“So you are.”</s>
+                  <s n="9" rend="first-line-indent">She murmured, “Three quarters of you.”</s>
+                  <pb n="1173"/>
+                  <s n="10" rend="first-line-indent">“I’ll drop them. Then you’ll be all of me.”</s>
+               </ab>
+               <ab n="2" type="narrative_unit" xml:id="F2"> <!-- CSS: [-] -->
+                  <s n="11" rend="first-line-indent">Our eyes met, hid nothing, could not hide
+                     anything. I reached out a hand through the bars. She stood away from the wall,
+                     and took off her gloves; looking down, whether at my hand or her own I couldn't
+                     tell.</s>
+                  <s n="12" rend="first-line-indent">"I haven't any choice really, have I ?</s>
+                  <s n="13" rend="first-line-indent">“No.”</s>
+                  <s n="14" rend="first-line-indent">I glanced at the couplet on the wall; at
+                     whatever terrible inadequacy of love among the living had prompted it.</s>
+                  <s n="15" rend="first-line-indent">She felt in her pocket and brought out the key,
+                     looked at it, then put it in her right hand and slipped it under mine.</s>
+               </ab>
+               <ab n="3" type="narrative_unit" xml:id="F3"><!-- CSS: green -->
+                  <s n="16" rend="first-line-indent">I drew her towards me by both hands, till our
+                     faces were only a few inches apart, our eyes one, our beings one, one through
+                     the cold iron bars; and she had that archaic smile, her variant of theirs,
+                     steadier, less malicious, far less implacable, yet still that cruel-gentle
+                     smile.</s>
+                  <s n="17" rend="first-line-indent"><seg xml:id="AP_F3"
+                     >Mocking love; yet making it.</seg></s>
+               </ab>
+            </div2>
+         </div1>
+      </body>
+   </text>
+</TEI>
