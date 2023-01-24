@@ -5,7 +5,9 @@
         <html>
             <body bgcolor="#ff0000">
                 <h2>nothing works</h2>
-                <xsl:apply-templates/>
+                <p>
+                    <xsl:apply-templates/>
+                </p>
 
                 
             </body>
