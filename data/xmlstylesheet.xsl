@@ -4,6 +4,7 @@
     <xsl:template match="/">
         <html>
             <body bgcolor="#ff0000">
+                <h2>nothing works</h2>
                 <xsl:value-of select="/TEI/text/body/div1/div2/ab/s/text()"/>
             </body>
         </html>
