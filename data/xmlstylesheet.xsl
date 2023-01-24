@@ -5,8 +5,8 @@
         <html>
             <body bgcolor="#ff0000">
                 <h2>nothing works</h2>
-                <xsl:for-each select="/TEI/text/body/div1/div2/ab/">
-    <xsl:value-of select="s"/>
+                <xsl:for-each select="/TEI/text/body/div1/p/text()">
+    
     
 
     </xsl:for-each>
