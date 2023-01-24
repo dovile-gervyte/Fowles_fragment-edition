@@ -12,7 +12,7 @@
         </html>
     </xsl:template>
     
-    <xsl:template match="ab">
+    <xsl:template match="p">
       <xsl:apply-templates/>
    </xsl:template>
     
