@@ -5,15 +5,19 @@
         <html>
             <body bgcolor="#ff0000">
                 <h2>nothing works</h2>
-                <xsl:for-each select="/TEI/text/body/div1/p">
-    
-    
+                <xsl:apply-templates/>
 
-    </xsl:for-each>
                 
             </body>
         </html>
     </xsl:template>
+    
+    <xsl:template match="s">
+      <li><xsl:apply-templates/></li>
+   </xsl:template>
+    
+     <xsl:template match="text()"/>
+    
 </xsl:stylesheet>
 
 
