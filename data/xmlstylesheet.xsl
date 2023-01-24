@@ -4,7 +4,8 @@
     <xsl:template match="/">
         <html>
             <body bgcolor="#ff0000">
-                <xsl:for-each select="/TEI/text/body/div1/div2/ab/s/text()">
+                <xsl:for-each select="/TEI/text/body/div1/div2/ab">
+                    <xsl:value-of select="s/text()"/>
                 </xsl:for-each>
             </body>
         </html>
