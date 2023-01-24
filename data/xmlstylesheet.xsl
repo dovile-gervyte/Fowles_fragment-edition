@@ -5,7 +5,7 @@
         <html>
             <body bgcolor="#ff0000">
                 <xsl:for-each select="/TEI/text/body/div1/div2">
-                    <xsl:value-of select="//ab"/>
+                    <xsl:value-of select="//ab"/text()>
                 </xsl:for-each>
             </body>
         </html>
