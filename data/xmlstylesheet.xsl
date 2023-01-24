@@ -12,8 +12,8 @@
         </html>
     </xsl:template>
     
-    <xsl:template match="s">
-      <li><xsl:apply-templates/></li>
+    <xsl:template match="body">
+      <xsl:apply-templates/>
    </xsl:template>
     
      <xsl:template match="text()"/>
