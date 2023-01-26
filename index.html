@@ -13,7 +13,14 @@
 <div class="row">
   <div class="column" style="background-color:#aaa;">
     <h2>Typescript</h2>
-    <iframe src="data/TP2.xml" style="border:none;height:600px;width:400px;"></iframe>
+    <iframe src="data/TP2.xml" id="myframe" style="border:none;height:600px;width:400px;"></iframe>
+    <script>
+function myFunction() {
+  var iframe = document.getElementById("myFrame");
+  var elmnt = iframe.contentWindow.document.getElementsByTagName("s")[0];
+}
+</script>
+    
   </div>
   <div class="column" style="background-color:#bbb;">
     <h2>1965 edition</h2>
