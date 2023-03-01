@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Fowles_fragment-edition</title>
+  <link rel="stylesheet" href="css/css.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+  
+  <h1>John Fowles, "The Magus"</h1>
+    
+<body>
+
+<div class="row">
+  <div class="column" style="background-color:#aaa;">
+    <h2>Typescript</h2>
+    <iframe src="data/TP2.xml" id="myframe" style="border:none;height:600px;width:400px;"></iframe>
+    <script>
+
+      var iframe = document.getElementById("myframe");
+      iframe.onload = function() {
+        var elmnt = iframe.contentWindow.document.querySelectorAll("p");
+        elmnt[0].style.fontWeight = 'bold';
+      };
+    
+    </script>
+    
+  </div>
+  <div class="column" style="background-color:#bbb;">
+    <h2>1965 edition</h2>
+    <iframe src="data/1965.xml" xslt="data/xmlstylesheet.xsl" style="border:none;height:600px;width:400px;"></iframe>
+  </div>
+  <div class="column" style="background-color:#ccc;">
+    <h2>1977 edition</h2>
+    <iframe src="data/1977.xml" xslt="xmlstylesheet.xsl" style="border:none;height:600px;width:400px;"></iframe>
+  </div>
+</div>
+
+</body>
+</html>
